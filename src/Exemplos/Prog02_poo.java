@@ -39,3 +39,9 @@ public class Prog02_poo {
 
     }
 }
+
+
+/* nome: "Gabriel Eduardo do Carmo",
+   curso: "Analise e Desenvolvimento de sistemas",
+   periodo: 4 
+*/

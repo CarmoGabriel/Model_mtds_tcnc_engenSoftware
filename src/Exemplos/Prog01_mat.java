@@ -15,3 +15,8 @@ public class Prog01_mat {
         System.out.println(percent+"% de " + valueTot + " e igual a: "+ calcPercent);
     }
 }
+
+/* nome: "Gabriel Eduardo do Carmo",
+   curso: "Analise e Desenvolvimento de sistemas",
+   periodo: 4 
+*/
